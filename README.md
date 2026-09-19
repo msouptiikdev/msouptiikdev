@@ -1,7 +1,9 @@
 # 💫 Hi 👋, I'm SOUPTIK MONDAL
 
 **Aspiring Software Developer & Data Analyst | Java • Python • SQL • Database Management**
+
 Email Me 👉 ✉️ **msouptik7@gmail.com** 😊😊
+
 - 🔭 **I’m currently working on:** My Own project
 - 🌱 **I’m currently learning:** JAVA, MySQL, Database Management
 - 📫 **How to reach me:** msouptik7@gmail.com
